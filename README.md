@@ -1,4 +1,6 @@
-# Powerbuiilder Migration
+# Powerbuilder Migration
+
+![PBMigration](Mobilize-PowerbuilderMigration.png)
 
 Mobilize.Net's automated migration tools convert PowerBuilder apps to modern web architecture and languages.
 
