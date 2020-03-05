@@ -16,6 +16,19 @@ Keep your proven business logic intact, reduce your defect rate, and get to mark
 - [Mobilize.Net Powerbuilder to Java HelloWorld Sample App](https://github.com/MobilizeNet/PBMAPJavaHelloWorld)
 - [Mobilize.Net Powerbuilder to AspNetCore HelloWorld Sample App](https://github.com/MobilizeNet/PBNetHelloWorld)
 
+# Articles about Powerbuilder migration
+
+- [Thinking about migrating your Powerbuilder apps](https://www.mobilize.net/blog/powerbuilder-yes-no-maybe)
+
+- [Powerbuilder to Java Overview](https://www.mobilize.net/blog/powerbuilderto-java/html5-modernization)
+
+- Migrating Powerbuilder Datawindows to Web series
+  - [Part 1](https://www.mobilize.net/blog/migrating-powerbuilder-datawindows-to-web)
+  - [Part 2](https://www.mobilize.net/blog/migrating-powerbuilder-datawindows-to-web-part-2)
+  - [Part 3](https://www.mobilize.net/blog/migrating-powerbuilder-datawindows-to-web-part3)
+  
+- [Migrating PowerBuilder to HTML: issues and answers](https://www.mobilize.net/blog/migrating-powerbuilder-to-html-issues-and-answers)
+
 # Have a question? 
 
 If you have some technical doubts please just post it on our [Powerbuilder Technical forums](https://forums.mobilize.net/forum/26-powerbuilder-to-web/)
