@@ -15,3 +15,7 @@ Keep your proven business logic intact, reduce your defect rate, and get to mark
 - [Mobilize.Net Powerbuilder HelloWorld Sample](https://github.com/MobilizeNet/PBMapJavaHelloWorldPB)
 - [Mobilize.Net Powerbuilder to Java HelloWorld Sample App](https://github.com/MobilizeNet/PBMAPJavaHelloWorld)
 - [Mobilize.Net Powerbuilder to AspNetCore HelloWorld Sample App](https://github.com/MobilizeNet/PBNetHelloWorld)
+
+# Have a question? 
+
+If you have some technical doubts please just post it on our [Powerbuilder Technical forums](https://forums.mobilize.net/forum/26-powerbuilder-to-web/)
